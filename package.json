@@ -11,7 +11,7 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/naoufal/react-native-touch-id.git"
+    "url": "https://github.com/MyUserNameHSW/react-native-eb-touch-id.git"
   },
   "keywords": [
     "react-native",
@@ -25,12 +25,12 @@
     "authenticate",
     "mobile"
   ],
-  "author": "Naoufal Kadhom <naoufalkadhom@gmail.com> (https://github.com/naoufal)",
+  "author": "MyUserNameHSW",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/naoufal/react-native-touch-id/issues"
+    "url": "https://github.com/MyUserNameHSW/react-native-eb-touch-id/issues"
   },
-  "homepage": "https://github.com/naoufal/react-native-touch-id",
+  "homepage": "https://github.com/MyUserNameHSW/react-native-eb-touch-id.git",
   "devDependencies": {
     "eslint": "2.0.0",
     "eslint-plugin-react": "2.7.1"
