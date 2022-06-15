@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/MyUserNameHSW/react-native-eb-touch-id.git",
   "devDependencies": {
-    "eslint": "2.0.0",
+    "eslint": "^8.17.0",
     "eslint-plugin-react": "2.7.1"
   }
 }
